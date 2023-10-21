@@ -6,5 +6,4 @@ Project Contributors:
 2. Chirayu Jain
 3. Dylan Kakkanad
 4. Lyushen Song
-5. Neeharika Kamireddy
-6. Pengru Lin
+5. Pengru Lin
